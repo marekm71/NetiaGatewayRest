@@ -1,0 +1,17 @@
+*.iml
+*.iws
+.idea/
+log/
+target/
+out/
+*.class
+*.log
+*.logs
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.tmp
+hs_err_pid*
